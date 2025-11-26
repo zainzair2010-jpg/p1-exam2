@@ -1,5 +1,5 @@
 /**
- * Implementación simple de una Lista Enlazada
+ * Implementación simple de una Lista Doblemente Enlazada
  */
 public class LinkedList {
     XXXX head;
